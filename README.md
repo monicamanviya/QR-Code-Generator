@@ -14,4 +14,6 @@
 			<artifactId>javase</artifactId>
 			<version>3.3.0</version>
 		</dependency>
+		
+# Url validation is done using java library :  import java.net.URL;
 
